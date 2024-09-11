@@ -42,7 +42,7 @@ python3 -m pip install openpyxl python-docx
 
 Run the script from the command line or an IDE:
 ```bash
-python script_name.py
+python main.py
 ```
 
 #### Error Handling
